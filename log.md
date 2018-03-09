@@ -1,30 +1,15 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Day 0: 2018-03-08 (Thu) - I’m doing it too…100 Days Code!
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Project link(s):** 1. [jonmaldia.com](https://www.jonmaldia.com) 2. [blog.jonmaldia.com](https://blog.jonmaldia.com)
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Blog Post:** [Day 0 – I’m doing it too…100 Days Code!
+](https://blog.jonmaldia.com/2018/03/08/100daysofcode/)
 
-**Link to work:** [Calculator App](http://www.example.com)
+**Twitter Post:** [https://twitter.com/jonmaldia/status/971947327140352001
+](https://twitter.com/jonmaldia/status/971947327140352001)
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
+**Today's Progress**: I worked on rebuilding my portfolio site and blog. I wanted to start blogging along with starting 100 days of code. I used HTML, CSS, jQuery, and BootStrap to build my site. I used WordPress to build the blog. 
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
-
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link(s) to work**: [Calculator App](http://www.example.com)
-
-
-### Day 1: June 27, Monday
-
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
-
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
-
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+**Thoughts:** I thought it would only take me a few hours to work on the site and blog. It took me the whole day. Both site and blog are decent now. I plan on adding some features to it. 
