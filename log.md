@@ -1,10 +1,24 @@
 # 100 Days Of Code - Log
 
-### Day 1: 2018-03-09 (Fri) - Drum Kit
+### Day[2]: 2018-03-10 (Saturday) - JS + CSS Clock
+
+**Project link(s):** [Drum Kit](http://jonmaldia.com/jscssclock/ )
+
+**Blog Post:** [Day[2] - JSS + CSS Clock ... not a lot of time to do this](https://blog.jonmaldia.com/2018/03/11/day2-jss-css-clock-not-a-lot-of-time-to-this/)
+
+**Twitter Post:** [https://twitter.com/jonmaldia/status/972670232383893506](https://twitter.com/jonmaldia/status/972670232383893506)
+
+**Today's Progress**: Worked on the JS + CSS clock. I'm getting more and more comfortable with CSS. Centering was hard yesterday. It's a little bit easier today. It was also easier to follow JS. 
+
+**Thoughts:** I didn't do much "cheating" today. I still watched the video before starting but after that, I only had to reference it a couple of times. I'm really enjoying myself. I showed it to my daughter and nephew and they thought it was cool. Yea!!!
+
+
+
+### Day[1]: 2018-03-09 (Fri) - Drum Kit
 
 **Project link(s):** [Drum Kit](http://jonmaldia.com/drumkit/ )
 
-**Blog Post:** [Day 1 – Semantic Tags and a Drum Kit
+**Blog Post:** [Day[1] – Semantic Tags and a Drum Kit
 ](https://blog.jonmaldia.com/2018/03/09/day-1-drumkit/)
 
 **Twitter Post:** [https://twitter.com/jonmaldia/status/972322352250974208](https://twitter.com/jonmaldia/status/972322352250974208)
@@ -15,11 +29,11 @@
 
 
 
-### Day 0: 2018-03-08 (Thu) - I’m doing it too…100 Days Code!
+### Day[0]: 2018-03-08 (Thu) - I’m doing it too…100 Days Code!
 
 **Project link(s):** 1. [jonmaldia.com](https://www.jonmaldia.com) 2. [blog.jonmaldia.com](https://blog.jonmaldia.com)
 
-**Blog Post:** [Day 0 – I’m doing it too…100 Days Code!
+**Blog Post:** [Day[0] – I’m doing it too…100 Days Code!
 ](https://blog.jonmaldia.com/2018/03/08/100daysofcode/)
 
 **Twitter Post:** [https://twitter.com/jonmaldia/status/971947327140352001
