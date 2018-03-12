@@ -1,8 +1,22 @@
 # 100 Days Of Code - Log
 
+### Day[3]: 2018-03-11 (Sunday) - Playing with CSS Variables and JS
+
+**Project link(s):** [CSS Variables and JS](http://jonmaldia.com/cssvariableswithjs/ )
+
+**Blog Post:** [Day[3] - ](https://blog.jonmaldia.com/2018/03/12/day3-css-variables-with-javascript-to-change-properties/)
+
+**Twitter Post:** [https://twitter.com/jonmaldia/status/973022583179399168](https://twitter.com/jonmaldia/status/973022583179399168)
+
+**Today's Progress**: Worked on using CSS Variables. I used the variables to be applied on certain properties. I then used JS to change the values of those variables to affect multiple elements. 
+
+**Thoughts:** I think this project was fun. I still had to peek at some of the video and code but I did a lot on my own. I am enjoying myself and learning a lot. 
+
+
+
 ### Day[2]: 2018-03-10 (Saturday) - JS + CSS Clock
 
-**Project link(s):** [Drum Kit](http://jonmaldia.com/jscssclock/ )
+**Project link(s):** [JS + CSS Clock](http://jonmaldia.com/jscssclock/ )
 
 **Blog Post:** [Day[2] - JSS + CSS Clock ... not a lot of time to do this](https://blog.jonmaldia.com/2018/03/11/day2-jss-css-clock-not-a-lot-of-time-to-this/)
 
