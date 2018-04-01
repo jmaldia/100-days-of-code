@@ -90,15 +90,13 @@
 
 ### Day[6]: 2018-03-14 (Wednesday) - 
 
-**Project link(s):** [be, in the world yoga](beintheworldyoga.com), [be, in the world yoga - blog](blog.beintheworldyoga.com)
+**Project link(s):** []()
 
-**Blog Post:** [Day[5] – I’m believing it…I think I can really code!](https://blog.jonmaldia.com/2018/03/14/day5-im-believing-it/)
+**Blog Post:** [Day[6] – []]()
 
-**Twitter Post:** [https://twitter.com/jonmaldia/status/973750787879915520](https://twitter.com/jonmaldia/status/973750787879915520)
+**Twitter Post:** []()
 
-**Today's Thoughts & Progress**: I am beginning to be more comfortable with working with code. It's like I can find my way around code now. Before, when I would look at code, it feels like a maze that I don't know the entrance to. So, I look at it and just walk away. Now, I go head on. 
-
-**:** Today was a great day. I have a revelation and at the same time, I made my wife happy by completing her site. 
+**Today's Thoughts & Progress**: 
 
 
 
